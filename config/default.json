@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://divesh123:divesh123@cluster0-njtef.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "secret"
+}
+
+  
